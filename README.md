@@ -14,10 +14,10 @@ Start shell
   $ iex
 
 Compile ex files
-  > c("fileName)
+  > c("fileName")
 
 Run compiled file
-  >module.function
+  >moduleName.functionName
 
 Exit shell
   >ctrl+c
